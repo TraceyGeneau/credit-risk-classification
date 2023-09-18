@@ -41,7 +41,7 @@ It is a statistical machine learning algorithm used primarily for binary classes
 
 This is a common classification technique used with imbalanced classifications.  It increases the number of instances in the minority class to achieve a more balanced distribution.  It randomly selects instances in the minority class and duplicates them to match the number of instances in the majority class.  This helps to fix the imbalance.  
 
-* Briefly touch on any methods you used (e.g., `LogisticRegression`, or any resampling method).
+
 
 ## Results
 

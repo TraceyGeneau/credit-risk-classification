@@ -47,7 +47,7 @@ This is a common classification technique used with imbalanced classifications. 
 
 Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all machine learning models.
 
-#### Machine Learning Model 1
+### Machine Learning Model 1
 
 **Original Confusion Matrix:**
 
@@ -72,7 +72,7 @@ The **weighted average F1 score** is 0.99 which is a measure of the class imbala
 Overall, this regression model can predict both "Healthy" and "High Risk" labels. The precision and recall for healthy loans are extremely high and there is a good overall balance in predicting "High Risk" loans. The F1 score indicates that the model is highly effective at distinguishing between the two classes.
 
 
-#### Machine Learning Model 2:
+### Machine Learning Model 2:
 
 **Oversampled Confusion Matrix:**
 
